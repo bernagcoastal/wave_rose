@@ -1,1 +1,1 @@
-In this folderyouwill find data from Puertos del Estado and a script to read and visualize it.
+In this folder, you will find wave data from Puertos del Estado along with a script to read and visualise it.
